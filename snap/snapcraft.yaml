@@ -62,3 +62,5 @@ parts:
       - build-essential
       - libxmlsec1-dev
       - cargo
+      - python-geoip
+      - python-geoip-lite
